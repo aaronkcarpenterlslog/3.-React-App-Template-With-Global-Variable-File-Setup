@@ -1,2 +1,2 @@
-export * from "./dataTable";
-export { default } from "./dataTable";
+export * from "./InventoryHome";
+export { default } from "./InventoryHome";
